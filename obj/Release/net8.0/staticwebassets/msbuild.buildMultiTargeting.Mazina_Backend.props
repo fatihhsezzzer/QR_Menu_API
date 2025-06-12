@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Mazina_Backend.props" />
+</Project>

@@ -1,0 +1,165 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Melih\\source\\repos\\Mazina_Backend\\Mazina_Backend\\wwwroot\\uploads\\000.jpg",
+      "PackagePath": "staticwebassets\\uploads\\000.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Melih\\source\\repos\\Mazina_Backend\\Mazina_Backend\\wwwroot\\uploads\\0fcc25d3-ef4a-4934-afec-9fb1c7d0bac4_Balık ve Ürünleri.png",
+      "PackagePath": "staticwebassets\\uploads\\0fcc25d3-ef4a-4934-afec-9fb1c7d0bac4_Balık ve Ürünleri.png"
+    },
+    {
+      "Id": "C:\\Users\\Melih\\source\\repos\\Mazina_Backend\\Mazina_Backend\\wwwroot\\uploads\\35b8ec35-1d23-4cd0-8c5a-e4cde5865aa1_Balık ve Ürünleri.png",
+      "PackagePath": "staticwebassets\\uploads\\35b8ec35-1d23-4cd0-8c5a-e4cde5865aa1_Balık ve Ürünleri.png"
+    },
+    {
+      "Id": "C:\\Users\\Melih\\source\\repos\\Mazina_Backend\\Mazina_Backend\\wwwroot\\uploads\\72ca55c9-1123-43c3-a0e7-bf6e553f852f_Balık ve Ürünleri.png",
+      "PackagePath": "staticwebassets\\uploads\\72ca55c9-1123-43c3-a0e7-bf6e553f852f_Balık ve Ürünleri.png"
+    },
+    {
+      "Id": "C:\\Users\\Melih\\source\\repos\\Mazina_Backend\\Mazina_Backend\\wwwroot\\uploads\\795ecf1d-8413-4d7d-b0c2-b6194c0dad0e_Balık ve Ürünleri.png",
+      "PackagePath": "staticwebassets\\uploads\\795ecf1d-8413-4d7d-b0c2-b6194c0dad0e_Balık ve Ürünleri.png"
+    },
+    {
+      "Id": "C:\\Users\\Melih\\source\\repos\\Mazina_Backend\\Mazina_Backend\\wwwroot\\uploads\\8585a600-2da0-4053-886a-9728d6979c95_Yer Fıstığı ve Ürünleri.png",
+      "PackagePath": "staticwebassets\\uploads\\8585a600-2da0-4053-886a-9728d6979c95_Yer Fıstığı ve Ürünleri.png"
+    },
+    {
+      "Id": "C:\\Users\\Melih\\source\\repos\\Mazina_Backend\\Mazina_Backend\\wwwroot\\uploads\\9796f50f-b46a-4176-8a90-0078d1f145da_img39.jpg",
+      "PackagePath": "staticwebassets\\uploads\\9796f50f-b46a-4176-8a90-0078d1f145da_img39.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Melih\\source\\repos\\Mazina_Backend\\Mazina_Backend\\wwwroot\\uploads\\Acı.png",
+      "PackagePath": "staticwebassets\\uploads\\Acı.png"
+    },
+    {
+      "Id": "C:\\Users\\Melih\\source\\repos\\Mazina_Backend\\Mazina_Backend\\wwwroot\\uploads\\Balık ve Ürünleri.png",
+      "PackagePath": "staticwebassets\\uploads\\Balık ve Ürünleri.png"
+    },
+    {
+      "Id": "C:\\Users\\Melih\\source\\repos\\Mazina_Backend\\Mazina_Backend\\wwwroot\\uploads\\Glüten ve Ürünleri.png",
+      "PackagePath": "staticwebassets\\uploads\\Glüten ve Ürünleri.png"
+    },
+    {
+      "Id": "C:\\Users\\Melih\\source\\repos\\Mazina_Backend\\Mazina_Backend\\wwwroot\\uploads\\Hardal ve Ürünleri.png",
+      "PackagePath": "staticwebassets\\uploads\\Hardal ve Ürünleri.png"
+    },
+    {
+      "Id": "C:\\Users\\Melih\\source\\repos\\Mazina_Backend\\Mazina_Backend\\wwwroot\\uploads\\Kereviz.png",
+      "PackagePath": "staticwebassets\\uploads\\Kereviz.png"
+    },
+    {
+      "Id": "C:\\Users\\Melih\\source\\repos\\Mazina_Backend\\Mazina_Backend\\wwwroot\\uploads\\Sert Kabuklu Meyveler ve Ürünleri.png",
+      "PackagePath": "staticwebassets\\uploads\\Sert Kabuklu Meyveler ve Ürünleri.png"
+    },
+    {
+      "Id": "C:\\Users\\Melih\\source\\repos\\Mazina_Backend\\Mazina_Backend\\wwwroot\\uploads\\Soya ve Ürünleri.png",
+      "PackagePath": "staticwebassets\\uploads\\Soya ve Ürünleri.png"
+    },
+    {
+      "Id": "C:\\Users\\Melih\\source\\repos\\Mazina_Backend\\Mazina_Backend\\wwwroot\\uploads\\Susam ve Ürünleri.png",
+      "PackagePath": "staticwebassets\\uploads\\Susam ve Ürünleri.png"
+    },
+    {
+      "Id": "C:\\Users\\Melih\\source\\repos\\Mazina_Backend\\Mazina_Backend\\wwwroot\\uploads\\Süt Ve Süt Ürünleri.png",
+      "PackagePath": "staticwebassets\\uploads\\Süt Ve Süt Ürünleri.png"
+    },
+    {
+      "Id": "C:\\Users\\Melih\\source\\repos\\Mazina_Backend\\Mazina_Backend\\wwwroot\\uploads\\Vegan.png",
+      "PackagePath": "staticwebassets\\uploads\\Vegan.png"
+    },
+    {
+      "Id": "C:\\Users\\Melih\\source\\repos\\Mazina_Backend\\Mazina_Backend\\wwwroot\\uploads\\Vejetaryen.png",
+      "PackagePath": "staticwebassets\\uploads\\Vejetaryen.png"
+    },
+    {
+      "Id": "C:\\Users\\Melih\\source\\repos\\Mazina_Backend\\Mazina_Backend\\wwwroot\\uploads\\Yer Fıstığı ve Ürünleri.png",
+      "PackagePath": "staticwebassets\\uploads\\Yer Fıstığı ve Ürünleri.png"
+    },
+    {
+      "Id": "C:\\Users\\Melih\\source\\repos\\Mazina_Backend\\Mazina_Backend\\wwwroot\\uploads\\Yumurta ve Ürünleri.png",
+      "PackagePath": "staticwebassets\\uploads\\Yumurta ve Ürünleri.png"
+    },
+    {
+      "Id": "C:\\Users\\Melih\\source\\repos\\Mazina_Backend\\Mazina_Backend\\wwwroot\\uploads\\af9863ac-fb05-4729-88b6-897a6137d174_Acı.png",
+      "PackagePath": "staticwebassets\\uploads\\af9863ac-fb05-4729-88b6-897a6137d174_Acı.png"
+    },
+    {
+      "Id": "C:\\Users\\Melih\\source\\repos\\Mazina_Backend\\Mazina_Backend\\wwwroot\\uploads\\c3fd7c7b-2ba0-4a64-b337-b664a325c38f_Balık ve Ürünleri.png",
+      "PackagePath": "staticwebassets\\uploads\\c3fd7c7b-2ba0-4a64-b337-b664a325c38f_Balık ve Ürünleri.png"
+    },
+    {
+      "Id": "C:\\Users\\Melih\\source\\repos\\Mazina_Backend\\Mazina_Backend\\wwwroot\\uploads\\e54926ac-a713-4ef8-8ca3-bb76857d1b13_Vejetaryen.png",
+      "PackagePath": "staticwebassets\\uploads\\e54926ac-a713-4ef8-8ca3-bb76857d1b13_Vejetaryen.png"
+    },
+    {
+      "Id": "C:\\Users\\Melih\\source\\repos\\Mazina_Backend\\Mazina_Backend\\wwwroot\\uploads\\e8b140e6-db90-4af8-9b0a-bdcf5c3be446_img17.jpg",
+      "PackagePath": "staticwebassets\\uploads\\e8b140e6-db90-4af8-9b0a-bdcf5c3be446_img17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Melih\\source\\repos\\Mazina_Backend\\Mazina_Backend\\wwwroot\\uploads\\f1ab0a36-d8a6-4cf0-a51a-7bc9f6180f2b_Hardal ve Ürünleri.png",
+      "PackagePath": "staticwebassets\\uploads\\f1ab0a36-d8a6-4cf0-a51a-7bc9f6180f2b_Hardal ve Ürünleri.png"
+    },
+    {
+      "Id": "C:\\Users\\Melih\\source\\repos\\Mazina_Backend\\Mazina_Backend\\wwwroot\\uploads\\img15.jpg",
+      "PackagePath": "staticwebassets\\uploads\\img15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Melih\\source\\repos\\Mazina_Backend\\Mazina_Backend\\wwwroot\\uploads\\img16.jpg",
+      "PackagePath": "staticwebassets\\uploads\\img16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Melih\\source\\repos\\Mazina_Backend\\Mazina_Backend\\wwwroot\\uploads\\img17.jpg",
+      "PackagePath": "staticwebassets\\uploads\\img17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Melih\\source\\repos\\Mazina_Backend\\Mazina_Backend\\wwwroot\\uploads\\img189.jpg",
+      "PackagePath": "staticwebassets\\uploads\\img189.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Melih\\source\\repos\\Mazina_Backend\\Mazina_Backend\\wwwroot\\uploads\\img20.jpg",
+      "PackagePath": "staticwebassets\\uploads\\img20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Melih\\source\\repos\\Mazina_Backend\\Mazina_Backend\\wwwroot\\uploads\\img35.jpg",
+      "PackagePath": "staticwebassets\\uploads\\img35.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Melih\\source\\repos\\Mazina_Backend\\Mazina_Backend\\wwwroot\\uploads\\img36.jpg",
+      "PackagePath": "staticwebassets\\uploads\\img36.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Melih\\source\\repos\\Mazina_Backend\\Mazina_Backend\\wwwroot\\uploads\\img54.jpg",
+      "PackagePath": "staticwebassets\\uploads\\img54.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Melih\\source\\repos\\Mazina_Backend\\Mazina_Backend\\wwwroot\\uploads\\img6.jpg",
+      "PackagePath": "staticwebassets\\uploads\\img6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Melih\\source\\repos\\Mazina_Backend\\Mazina_Backend\\wwwroot\\uploads\\img66.jpg",
+      "PackagePath": "staticwebassets\\uploads\\img66.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Melih\\source\\repos\\Mazina_Backend\\Mazina_Backend\\wwwroot\\uploads\\img7.jpg",
+      "PackagePath": "staticwebassets\\uploads\\img7.jpg"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.Mazina_Backend.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.Mazina_Backend.props",
+      "PackagePath": "build\\Mazina_Backend.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Mazina_Backend.props",
+      "PackagePath": "buildMultiTargeting\\Mazina_Backend.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.Mazina_Backend.props",
+      "PackagePath": "buildTransitive\\Mazina_Backend.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
